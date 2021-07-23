@@ -408,6 +408,7 @@ body {
 
 @media (min-width: 769px) {
   .seccion-cuatro {
+    background-image: url("./puntitos.png");
     height: 346px;
     background-color: none;
     flex-direction: row;

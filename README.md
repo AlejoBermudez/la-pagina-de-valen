@@ -2,4 +2,4 @@
 
 ¡Esta es la Pagina de Valen!
 
-https://github.com/AlejoBermudez/la-pagina-de-valen
+https://alejobermudez.github.io/la-pagina-de-valen/
